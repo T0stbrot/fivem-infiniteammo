@@ -5,4 +5,4 @@ author 'ye_'
 description 'Infinite Ammo'
 version '1.0'
 
-client_script 'client.lua'
+client_script 'ammo.lua'
